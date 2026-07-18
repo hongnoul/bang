@@ -24,7 +24,7 @@ jobs:
           - os: macos-latest
             target: aarch64-apple-darwin
             asset: bang-darwin-aarch64
-          - os: macos-13
+          - os: macos-latest
             target: x86_64-apple-darwin
             asset: bang-darwin-x86_64
     steps:
